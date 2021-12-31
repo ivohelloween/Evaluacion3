@@ -67,6 +67,10 @@ public class MainActivity extends AppCompatActivity {
                 if(task.isSuccessful()){
                     FirebaseUser usuarioNuevo = mAuth.getCurrentUser();
                     Toast.makeText(MainActivity.this, "Usuario creado: "+usuarioNuevo.getUid(), Toast.LENGTH_LONG).show();
+
+
+
+
                     LanzarActivity();
                 } else {
                     Toast.makeText(MainActivity.this, "No se pudo crear la cuenta", Toast.LENGTH_LONG).show();
@@ -79,4 +83,6 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MainActivity2.class);
         startActivity(intent);
     }
+
+
 }

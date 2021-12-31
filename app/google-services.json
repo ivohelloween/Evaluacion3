@@ -1,34 +1,33 @@
 {
   "project_info": {
-    "project_number": "181658932740",
-    "firebase_url": "https://fb-prueba-htalca00-default-rtdb.firebaseio.com",
-    "project_id": "fb-prueba-htalca00",
-    "storage_bucket": "fb-prueba-htalca00.appspot.com"
+    "project_number": "864110034996",
+    "project_id": "evaluacion3-644ce",
+    "storage_bucket": "evaluacion3-644ce.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:181658932740:android:d81f0fb0766c7902060751",
+        "mobilesdk_app_id": "1:864110034996:android:edaf20da6fd76a1b718a61",
         "android_client_info": {
-          "package_name": "com.example.firebase_htalca"
+          "package_name": "com.ivo.firebase_htalca"
         }
       },
       "oauth_client": [
         {
-          "client_id": "181658932740-f8mmqvhkb9mrcm2uakru33lfp4a4m408.apps.googleusercontent.com",
+          "client_id": "864110034996-v1is261qn1sgsfcipvt33tad1lqmp189.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC684KkeQQi58qroSR3WqqgH46Uyn-isLw"
+          "current_key": "AIzaSyAD2wIsIK-VrEbZZQj2uJK3EKDAeLoeRqg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "181658932740-f8mmqvhkb9mrcm2uakru33lfp4a4m408.apps.googleusercontent.com",
+              "client_id": "864110034996-v1is261qn1sgsfcipvt33tad1lqmp189.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
